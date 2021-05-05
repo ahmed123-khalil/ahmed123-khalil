@@ -1,5 +1,6 @@
 #include <stdio.h>
 int main(){
+	printf("petit changement");
 	FILE *fp;
 	int ch;
 	int c;
